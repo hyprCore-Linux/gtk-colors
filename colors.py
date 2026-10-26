@@ -81,7 +81,7 @@ class ColorsWindow(Gtk.ApplicationWindow):
             self,
             header,
             about_name="GTK Colors",
-            about_comments="Color picker and format converter for the Neuronix GTK-Apps suite.",
+            about_comments="Color picker and format converter for the hyprCore Linux GTK apps.",
         )
 
         scrolled = Gtk.ScrolledWindow()

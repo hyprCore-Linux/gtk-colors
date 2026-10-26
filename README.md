@@ -1,8 +1,8 @@
 # gtk-colors
 
-GTK4 color picker and format converter for the Neuronix GTK-Apps suite.
+GTK4 color picker and format converter for the hyprCore Linux GTK apps.
 
-Created by Kevin Hinds — [github.com/NeuronixOS/GTK-Apps](https://github.com/NeuronixOS/GTK-Apps)
+Created by Kevin Hinds
 
 ## Features
 
