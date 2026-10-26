@@ -33,3 +33,7 @@ Or via the suite launcher:
 ```
 
 Kevin-Launcher shortcut: `ctrl+alt+super+=`
+
+## License
+
+GNU General Public License v3.0. See [LICENSE](LICENSE).
