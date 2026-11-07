@@ -74,8 +74,7 @@ class ColorsWindow(Gtk.ApplicationWindow):
         self._palette_mode_ids = [m[0] for m in PALETTE_MODES]
 
         header = Gtk.HeaderBar()
-        header.set_show_title_buttons(True)
-        header.set_title_widget(Gtk.Label(label="Colors"))
+        gtk_theme.prepare_headerbar(header)
         self.set_titlebar(header)
         gtk_theme.attach_profile_menu(
             self,
